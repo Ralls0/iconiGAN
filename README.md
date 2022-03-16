@@ -1,5 +1,7 @@
 # IconiGAN
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ralls0/iconiGAN/blob/main/iconiGAN.ipynb)
+  
 ## Authors
 
 The following people, in alphabetical order, have authored of IconiGAN repository:
