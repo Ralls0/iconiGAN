@@ -44,7 +44,7 @@ where L indicates the activation function LeakyReLU and C is same as Equation 1.
 
 The final model, as shown in Figure, has an error that follows the trend explained earlier.
 
-![Final Model Losses](img/finalLosses.png)
+![Final Model Losses](img/finalLosses.jpeg)
 
 In addition, after 350 epochs, you can see the final images generated in Figure.
 
