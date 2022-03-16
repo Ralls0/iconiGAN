@@ -4,9 +4,9 @@
 
 The following people, in alphabetical order, have authored of IconiGAN repository:
 
-**Marco Manco**
-**Alexander Carlo Gustavo Spira**
-**Lorenzo Valente**
+- **Marco Manco**
+- **Alexander Carlo Gustavo Spira**
+- **Lorenzo Valente**
 
 ## Abstract
 
